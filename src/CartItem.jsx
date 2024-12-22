@@ -20,7 +20,7 @@ const CartItem = ({ onContinueShopping }) => {
 
   const handleContinueShopping = () => {
     setShowCheckout(false); // Hide checkout if it's showing
-    onContinueShopping(true); // Call parent function to show products
+    onContinueShopping(false); // Call parent function to show products
   };
 
   const handleCheckoutShopping = () => {

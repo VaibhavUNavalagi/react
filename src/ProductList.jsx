@@ -250,7 +250,7 @@ const handlePlantsClick = (e) => {
 
 const handleContinueShopping = () => {
     setShowCart(false); // Hide cart view
-    setShowCart(true); // Show plants view
+    setShowCart(false); // Show plants view
 };
 
   const handleAddToCart = (product) => {
