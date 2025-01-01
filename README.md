@@ -1,5 +1,6 @@
-E-Plant Shopping Website
-This project is a React-based frontend for an online plant shopping website. It allows users to browse and purchase plants, featuring an intuitive user interface and responsive design.
+#E-Plant Shopping Website
+
+###This project is a React-based frontend for an online plant shopping website. It allows users to browse and purchase plants, featuring an intuitive user interface and responsive design.
 
 Paradise Nursery - Landing page
 ![Paradise Nursery - Landing page](https://github.com/user-attachments/assets/5d80382d-4432-405c-ae7c-ede4f8fcab38)
