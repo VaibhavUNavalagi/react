@@ -20,4 +20,5 @@
 ## Sample Receipt
 ![Sample Receipt](https://github.com/user-attachments/assets/4eb753e5-71f5-4ecf-9141-17064f7d772d)
 
-## Live Demo: Click here(#https://vaibhavunavalagi.github.io/react/)
+## Live Demo: Desktop view
+[Click here](https://vaibhavunavalagi.github.io/react/)
