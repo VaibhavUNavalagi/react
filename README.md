@@ -2,6 +2,12 @@
 
 #### This project is a React-based frontend for an online plant shopping website. It allows users to browse and purchase plants, featuring an intuitive user interface and responsive design.
 
+## Contents
+- #### Landing page
+- #### Displaying Plants
+- #### Checking out
+- #### Sample Receipt
+
 ## Paradise Nursery - Landing page
 ![Paradise Nursery - Landing page](https://github.com/user-attachments/assets/5d80382d-4432-405c-ae7c-ede4f8fcab38)
 
@@ -13,3 +19,5 @@
 
 ## Sample Receipt
 ![Sample Receipt](https://github.com/user-attachments/assets/4eb753e5-71f5-4ecf-9141-17064f7d772d)
+
+## Live Demo: Click here(#https://vaibhavunavalagi.github.io/react/)
